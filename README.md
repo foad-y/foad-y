@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Hi,%20I'm%20Mohammad&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20%E2%80%A2%20Mobile%20%E2%80%A2%20Embedded%20Developer&descAlignY=58&descSize=18" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Hi,%20I'm%20Foad%20Yousefian&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20%E2%80%A2%20Mobile%20%E2%80%A2%20Embedded%20Developer&descAlignY=58&descSize=18" width="100%" alt="header"/>
 
 <div align="center">
 
@@ -20,7 +20,8 @@
 ## 👨‍💻 About Me
 
 ```ts
-const mohammad = {
+const foad = {
+  name: "Foad Yousefian",
   role: "Full-Stack & Embedded Developer",
   background: "Electrical Engineering ⚡ → Software 💻",
   web: ["React", "Next.js", "TypeScript", "Node.js", "Express"],
